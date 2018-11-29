@@ -3936,7 +3936,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #007bff;
+  background-color: #00004c;
 }
 
 .nav-fill .nav-item {
@@ -4323,7 +4323,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: -#fff;
 }
 
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
@@ -4882,7 +4882,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 1rem;
-  background-color: #e9ecef;
+  background-color: #F3E5AB;
   border-radius: 0.3rem;
 }
 
