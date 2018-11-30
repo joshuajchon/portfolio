@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #d3d3d3;
 }
 
 [tabindex="-1"]:focus {
@@ -3936,7 +3936,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #00004c;
+  background-color: #000000;
 }
 
 .nav-fill .nav-item {
@@ -4378,7 +4378,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #d3d3d3;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
@@ -4403,6 +4403,7 @@ input[type="button"].btn-block {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1.25rem;
+
 }
 
 .card-title {
@@ -4882,7 +4883,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 1rem;
-  background-color: #F3E5AB;
+  background-color: #006699;
   border-radius: 0.3rem;
 }
 
